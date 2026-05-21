@@ -11,6 +11,7 @@ Tools Used: Microsoft Excel, Power BI
 ________________________________________
 1. Data Pre-processing in Excel
 The dataset was systematically cleaned, transformed, and organized to ensure it was ready for accurate and professional
+
 ●	Removed duplicate records to ensure accuracy.
 ●	Handled missing values by filling, replacing, or removing incomplete data.
 ●	Standardized formats for dates, numbers, and categorical data.
